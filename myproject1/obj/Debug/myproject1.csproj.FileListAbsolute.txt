@@ -1,0 +1,10 @@
+C:\Users\YOON\Desktop\PROJECT\myproject1\bin\Debug\myproject1.exe.config
+C:\Users\YOON\Desktop\PROJECT\myproject1\bin\Debug\myproject1.exe
+C:\Users\YOON\Desktop\PROJECT\myproject1\bin\Debug\myproject1.pdb
+C:\Users\YOON\Desktop\PROJECT\myproject1\obj\Debug\myproject1.csproj.AssemblyReference.cache
+C:\Users\YOON\Desktop\PROJECT\myproject1\obj\Debug\myproject1.Form1.resources
+C:\Users\YOON\Desktop\PROJECT\myproject1\obj\Debug\myproject1.Properties.Resources.resources
+C:\Users\YOON\Desktop\PROJECT\myproject1\obj\Debug\myproject1.csproj.GenerateResource.cache
+C:\Users\YOON\Desktop\PROJECT\myproject1\obj\Debug\myproject1.csproj.CoreCompileInputs.cache
+C:\Users\YOON\Desktop\PROJECT\myproject1\obj\Debug\myproject1.exe
+C:\Users\YOON\Desktop\PROJECT\myproject1\obj\Debug\myproject1.pdb
